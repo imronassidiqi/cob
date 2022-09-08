@@ -1,3 +1,4 @@
+//lagi
 //slash
 <?php
 require 'function.php';
